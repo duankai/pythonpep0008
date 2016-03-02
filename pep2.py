@@ -12,5 +12,6 @@ getNumberAndPrice(170, 12)
 
 def spam():
     pass
-    
+
 spam(ham[1], {eggs: 2})
+if x == 4: print x, y; x, y = y, x
