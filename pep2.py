@@ -35,3 +35,6 @@ c = (a+b) * (c+d)
 
 def complex(real, imag=0.0):
     return magic(r=real, i=imag)
+
+def munge(input: AnyStr, sep: AnyStr = None, limit=1000):
+    pass
